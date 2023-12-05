@@ -5,7 +5,7 @@ Hi 👋 My name is Pacharadanai Pinake
 Software Developer Trainee
 --------------------------
 
-I'm a Software Developer Trainee at TechUp Training Company Limited.
+I'm a Software Developer Trainee at TechUp Bootcamp.
 
 * 🌍  I'm based in Mahasarakham, Thailand
 * 🧠  I'm learning HTML, CSS , Javascript
