@@ -27,4 +27,4 @@ I'm a Software Developer Trainee at TechUp Bootcamp.
 
 <a href="http://www.github.com/P-Pacharadanai"><img src="https://github-readme-stats.vercel.app/api?username=P-Pacharadanai&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=P-Pacharadanai&theme=react&custom_title=Contribution%20Graph&hide_border=true&bg_color=1c1917&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=P-Pacharadanai&theme=react&custom_title=Contribution%20Graph&hide_border=true&bg_color=1c1917&radius=12)](https://github.com/P-Pacharadanai)
