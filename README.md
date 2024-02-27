@@ -2,10 +2,10 @@
 Hi 👋 My name is Pacharadanai Pinake
 ====================================
 
-Software Developer Trainee
+Full-Stack Web Developer
 --------------------------
 
-I'm a Software Developer Trainee at TechUp Bootcamp.
+I'm a Junior Full-Stack Web Developer.
 
 * 🌍  I'm based in Mahasarakham, Thailand
 * 🧠  I'm learning frontend and backend development
